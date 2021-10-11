@@ -1,0 +1,17 @@
+4 par groupe (Tibo/Enzo/Jilani/??)
+1 page minimum par personne (1 page = 2 scrolls = 2 écrans)
+Pages => Meme design pour chacun
+Pas de note sur le design
+
+Notation :
+- Structure (dossier/indentation) 5/20
+- Qualité du code (indentation/class css/atomic design) 9/20
+- Points bonus que l'on a pas vu en ligne (javascript/animations/formulaires/librairies...) 6/20
+
+1h de projet sur chaque séance
+
+Etapes :
+- Choisir sujet
+- Choisir pages du sujet
+- Faire des wireframes (modèle/schéma des pages) -> Figma / Adobe XD
+- Intégration/Design du site (écriture du code)
